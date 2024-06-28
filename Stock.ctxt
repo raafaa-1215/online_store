@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Stock
+comment1.params=
+comment1.target=Stock()
+comment2.params=
+comment2.target=java.util.ArrayList\ getClothingList()
+comment3.params=clothing
+comment3.target=void\ addClothing(Clothing)
+comment4.params=clothing
+comment4.target=void\ removeClothing(Clothing)
+comment5.params=code
+comment5.target=Clothing\ getClothingByCode(int)
+numComments=6

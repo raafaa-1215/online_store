@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ This\ interfaces\ defines\ menu\r\n\r\n\ @author\ (Rafael\ Rodrigues\ e\ Nelson\ Santos)\r\n\ @version\ (25/05/2024)\r\n
+comment1.params=
+comment1.target=void\ showMenu()
+numComments=2

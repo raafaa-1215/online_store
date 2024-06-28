@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UserIllegalStateException
+comment0.text=\r\n\ This\ handles\ exceptions\ for\ users\r\n\r\n\ @author\ (Rafael\ Rodrigues\ e\ Nelson\ Santos)\r\n\ @version\ (12/06/2024)\r\n
+comment1.params=error
+comment1.target=UserIllegalStateException(StringErrorCode)
+numComments=2

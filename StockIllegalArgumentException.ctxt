@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StockIllegalArgumentException
+comment0.text=\r\n\ This\ handles\ exceptions\ for\ clothing\r\n\r\n\ @author\ (Rafael\ Rodrigues\ e\ Nelson\ Santos)\r\n\ @version\ (05/06/2024)\r\n
+comment1.params=
+comment1.target=StockIllegalArgumentException()
+numComments=2

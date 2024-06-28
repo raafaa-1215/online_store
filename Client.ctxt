@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=email\ password\ name\ category
+comment1.target=Client(java.lang.String,\ java.lang.String,\ java.lang.String,\ Category)
+comment10.params=
+comment10.target=void\ showMenu()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Category\ getCategory()
+comment4.params=
+comment4.target=java.util.ArrayList\ getCart()
+comment5.params=
+comment5.target=java.util.ArrayList\ getPurchaseHistory()
+comment6.params=item
+comment6.target=void\ addToCart(Clothing)
+comment7.params=item
+comment7.target=void\ removeFromCart(Clothing)
+comment8.params=
+comment8.target=void\ checkout()
+comment9.params=
+comment9.target=void\ displayItemsBought()
+numComments=11

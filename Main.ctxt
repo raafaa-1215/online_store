@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=store\ scanner
+comment2.target=void\ adminMenu(OnlineStore,\ java.util.Scanner)
+comment3.params=store\ scanner
+comment3.target=void\ addItem(OnlineStore,\ java.util.Scanner)
+comment4.params=store\ scanner
+comment4.target=void\ removeItem(OnlineStore,\ java.util.Scanner)
+comment5.params=store\ scanner
+comment5.target=void\ clientMenu(OnlineStore,\ java.util.Scanner)
+comment6.params=store\ scanner
+comment6.target=void\ addToCart(OnlineStore,\ java.util.Scanner)
+comment7.params=store\ scanner
+comment7.target=void\ removeFromCart(OnlineStore,\ java.util.Scanner)
+comment8.params=store
+comment8.target=void\ checkout(OnlineStore)
+comment9.params=store
+comment9.target=void\ viewPurchaseHistory(OnlineStore)
+numComments=10

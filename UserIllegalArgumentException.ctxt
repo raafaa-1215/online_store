@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UserIllegalArgumentException
+comment0.text=\r\n\ This\ class\ handles\ user\ exceptions\r\n\r\n\ @author\ (Rafael\ Rodrigues\ e\ Nelson\ Santos)\r\n\ @version\ (29/05/2024)\r\n
+comment1.params=error
+comment1.target=UserIllegalArgumentException(UserErrorCode)
+numComments=2
